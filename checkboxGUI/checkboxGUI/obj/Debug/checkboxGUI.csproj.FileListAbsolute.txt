@@ -1,0 +1,10 @@
+D:\Winform\checkboxGUI\checkboxGUI\bin\Debug\checkboxGUI.exe.config
+D:\Winform\checkboxGUI\checkboxGUI\bin\Debug\checkboxGUI.exe
+D:\Winform\checkboxGUI\checkboxGUI\bin\Debug\checkboxGUI.pdb
+D:\Winform\checkboxGUI\checkboxGUI\obj\Debug\checkboxGUI.csproj.AssemblyReference.cache
+D:\Winform\checkboxGUI\checkboxGUI\obj\Debug\checkboxGUI.Form1.resources
+D:\Winform\checkboxGUI\checkboxGUI\obj\Debug\checkboxGUI.Properties.Resources.resources
+D:\Winform\checkboxGUI\checkboxGUI\obj\Debug\checkboxGUI.csproj.GenerateResource.cache
+D:\Winform\checkboxGUI\checkboxGUI\obj\Debug\checkboxGUI.csproj.CoreCompileInputs.cache
+D:\Winform\checkboxGUI\checkboxGUI\obj\Debug\checkboxGUI.exe
+D:\Winform\checkboxGUI\checkboxGUI\obj\Debug\checkboxGUI.pdb

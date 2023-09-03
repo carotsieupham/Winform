@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7433732C-DFB3-4F68-8FD2-A53644AD025F}</ProjectGuid>
+    <ProjectGuid>{6F6EBE7E-6A66-470A-921F-E604C9660327}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>checkboxGUI</RootNamespace>
-    <AssemblyName>checkboxGUI</AssemblyName>
+    <RootNamespace>MessageboxGUI</RootNamespace>
+    <AssemblyName>MessageboxGUI</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
