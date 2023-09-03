@@ -1,0 +1,9 @@
+D:\Winform\WindowGUI\WindowGUI\bin\Debug\WindowGUI.exe.config
+D:\Winform\WindowGUI\WindowGUI\bin\Debug\WindowGUI.exe
+D:\Winform\WindowGUI\WindowGUI\bin\Debug\WindowGUI.pdb
+D:\Winform\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csproj.AssemblyReference.cache
+D:\Winform\WindowGUI\WindowGUI\obj\Debug\WindowGUI.Properties.Resources.resources
+D:\Winform\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csproj.GenerateResource.cache
+D:\Winform\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csproj.CoreCompileInputs.cache
+D:\Winform\WindowGUI\WindowGUI\obj\Debug\WindowGUI.exe
+D:\Winform\WindowGUI\WindowGUI\obj\Debug\WindowGUI.pdb
