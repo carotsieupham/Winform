@@ -1,0 +1,10 @@
+D:\Winform\RadiobtnGUI\RadiobtnGUI\bin\Debug\RadiobtnGUI.exe.config
+D:\Winform\RadiobtnGUI\RadiobtnGUI\bin\Debug\RadiobtnGUI.exe
+D:\Winform\RadiobtnGUI\RadiobtnGUI\bin\Debug\RadiobtnGUI.pdb
+D:\Winform\RadiobtnGUI\RadiobtnGUI\obj\Debug\RadiobtnGUI.csproj.AssemblyReference.cache
+D:\Winform\RadiobtnGUI\RadiobtnGUI\obj\Debug\RadiobtnGUI.Form1.resources
+D:\Winform\RadiobtnGUI\RadiobtnGUI\obj\Debug\RadiobtnGUI.Properties.Resources.resources
+D:\Winform\RadiobtnGUI\RadiobtnGUI\obj\Debug\RadiobtnGUI.csproj.GenerateResource.cache
+D:\Winform\RadiobtnGUI\RadiobtnGUI\obj\Debug\RadiobtnGUI.csproj.CoreCompileInputs.cache
+D:\Winform\RadiobtnGUI\RadiobtnGUI\obj\Debug\RadiobtnGUI.exe
+D:\Winform\RadiobtnGUI\RadiobtnGUI\obj\Debug\RadiobtnGUI.pdb

@@ -1,0 +1,10 @@
+D:\Winform\ComboBoxGUI\ComboBoxGUI\bin\Debug\ComboBoxGUI.exe.config
+D:\Winform\ComboBoxGUI\ComboBoxGUI\bin\Debug\ComboBoxGUI.exe
+D:\Winform\ComboBoxGUI\ComboBoxGUI\bin\Debug\ComboBoxGUI.pdb
+D:\Winform\ComboBoxGUI\ComboBoxGUI\obj\Debug\ComboBoxGUI.csproj.AssemblyReference.cache
+D:\Winform\ComboBoxGUI\ComboBoxGUI\obj\Debug\ComboBoxGUI.Form1.resources
+D:\Winform\ComboBoxGUI\ComboBoxGUI\obj\Debug\ComboBoxGUI.Properties.Resources.resources
+D:\Winform\ComboBoxGUI\ComboBoxGUI\obj\Debug\ComboBoxGUI.csproj.GenerateResource.cache
+D:\Winform\ComboBoxGUI\ComboBoxGUI\obj\Debug\ComboBoxGUI.csproj.CoreCompileInputs.cache
+D:\Winform\ComboBoxGUI\ComboBoxGUI\obj\Debug\ComboBoxGUI.exe
+D:\Winform\ComboBoxGUI\ComboBoxGUI\obj\Debug\ComboBoxGUI.pdb

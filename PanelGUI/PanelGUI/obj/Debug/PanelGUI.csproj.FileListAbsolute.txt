@@ -1,0 +1,10 @@
+D:\Winform\PanelGUI\PanelGUI\bin\Debug\PanelGUI.exe.config
+D:\Winform\PanelGUI\PanelGUI\bin\Debug\PanelGUI.exe
+D:\Winform\PanelGUI\PanelGUI\bin\Debug\PanelGUI.pdb
+D:\Winform\PanelGUI\PanelGUI\obj\Debug\PanelGUI.csproj.AssemblyReference.cache
+D:\Winform\PanelGUI\PanelGUI\obj\Debug\PanelGUI.Form1.resources
+D:\Winform\PanelGUI\PanelGUI\obj\Debug\PanelGUI.Properties.Resources.resources
+D:\Winform\PanelGUI\PanelGUI\obj\Debug\PanelGUI.csproj.GenerateResource.cache
+D:\Winform\PanelGUI\PanelGUI\obj\Debug\PanelGUI.csproj.CoreCompileInputs.cache
+D:\Winform\PanelGUI\PanelGUI\obj\Debug\PanelGUI.exe
+D:\Winform\PanelGUI\PanelGUI\obj\Debug\PanelGUI.pdb
